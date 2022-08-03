@@ -28,7 +28,7 @@ const Home: NextPage = () => {
         </button>
       </div>
       <div className="bg-white rounded-2xl shadow-2xl overflow-hidden">
-        <div className="bg-blue-500 p-6 pb-14 xl:pb-40">
+        <div className="bg-blue-500 p-6 pb-14 xl:pb-40 landscape:bg-teal-500 portrait:bg-indigo-500">
           <span className="text-white text-2xl">Profile</span>
         </div>
         <div className="rounded-3xl p-6 relative -top-5 bg-white">
