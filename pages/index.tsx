@@ -6,7 +6,7 @@ import styles from "../styles/Home.module.css";
 const Home: NextPage = () => {
   return (
     <div className="bg-slate-400 py-20 px-20 grid gap-10 min-h-screen">
-      <div className="bg-white p-6  rounded-3xl shadow-2xl">
+      <div className="bg-white p-6  rounded-3xl shadow-2xl sm:bg-red-400 md:bg-teal-400 lg:bg-indigo-400 xl:bg-yellow-400">
         <span className="font-semibold text-3xl">Select Item</span>
         <div className="flex justify-between my-2">
           <span className="text-gray-500">Grey Chair</span>
@@ -21,7 +21,7 @@ const Home: NextPage = () => {
           <span className="font-semibold">$10</span>
         </div>
         <button
-          className="mt-5 bg-blue-500 text-white p-3 text-center rounded-xl w-2/3 mx-auto 
+          className="mt-5 bg-blue-500 text-white p-3 text-center rounded-xl w-2/3 mx-auto block
         hover:bg-teal-500 hover:text-black active:bg-yellow-500"
         >
           Checkout
