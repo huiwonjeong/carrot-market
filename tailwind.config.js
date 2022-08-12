@@ -10,5 +10,6 @@ module.exports = {
   },
   //darkMode: "media", //이경우는 사용자가 브라우저 및 컴퓨터의 기본 세팅에 따라 달라짐
   darkMode: "class",
-  plugins: [],
+  plugins: [require("@tailwindcss/forms")],
+  //tailwindcss 의 form 추가
 };
