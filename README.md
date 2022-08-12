@@ -7,4 +7,4 @@
 
 ## Log in Page
 
-<img src="enter_page.png">
+![alt text](https://github.com/huiwonjeong/carrot-market/blob/main/public/enter_page.png?raw=true)
