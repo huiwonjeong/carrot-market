@@ -6,5 +6,6 @@
 - Tailwind CSS
 
 ## Log in Page
-
-![alt text](https://github.com/huiwonjeong/carrot-market/blob/main/public/enter_page.png?raw=true)
+<p align="center" >
+<img src="https://github.com/huiwonjeong/carrot-market/blob/main/public/enter_page_screenshot.png"/>
+</p>
